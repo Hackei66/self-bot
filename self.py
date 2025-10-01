@@ -1,4 +1,5 @@
 import os
+os.system("pip install tgcrypto")
 import json
 import logging
 import asyncio
